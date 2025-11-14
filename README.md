@@ -66,7 +66,7 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <a href="https://github.com/[seu-usuário-github]">
+  <a href="https://github.com/MateusEDSS">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusEDSS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </p><br>
